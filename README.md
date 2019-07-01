@@ -1,5 +1,6 @@
-
 # Metabox
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshurick81%2Fmetabox.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshurick81%2Fmetabox?ref=badge_shield)
+
 
 Metabox is an enhancement API layer on top of Packer/Vagrant tools to simplify machine image builds and Vagrant VMs management. It hides low-level details of Packer/Vagrant offering a consistent, YAML-based workflow to describe, author and manage Packer images and Vagrant virtual machines.
  
@@ -79,3 +80,7 @@ Metabox is a part of the SPMeta2 ecosystem. In case you have unexpected issues o
 * [Metabox issue tracker](https://github.com/SubPointSolutions/metabox/issues)
 * [Metabox documentation](https://github.com/SubPointSolutions/metabox/wiki)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshurick81%2Fmetabox.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshurick81%2Fmetabox?ref=badge_large)
